@@ -1,1 +1,1 @@
-This works are to verify my skills of working with bash on linux OS.
+These works are to verify my skills of working with bash on linux OS.
