@@ -1,0 +1,900 @@
+Binary file /var/log/journal/cd4816e6c21f485aa911defa72fb36db/system@000584519defa2de-86f4a933c12f13b7.journal~ matches
+Binary file /var/log/journal/cd4816e6c21f485aa911defa72fb36db/system@a3bb109cd27a4fb0acb55443dd5f48ec-0000000000000001-0005837092306a1a.journal matches
+Binary file /var/log/journal/cd4816e6c21f485aa911defa72fb36db/system@7f42776b80eb4309837d29531e007662-0000000000000a1e-0005844f31d9e703.journal matches
+Binary file /var/log/journal/cd4816e6c21f485aa911defa72fb36db/system@7f42776b80eb4309837d29531e007662-0000000000001539-0005845f1f767ea8.journal matches
+Binary file /var/log/journal/cd4816e6c21f485aa911defa72fb36db/system@7f42776b80eb4309837d29531e007662-0000000000000001-000584519debc4e7.journal matches
+Binary file /var/log/journal/cd4816e6c21f485aa911defa72fb36db/system.journal matches
+Apr 11 07:43:52 hum-Lenovo-B50-70 kernel: [ 4134.851758] ACPI: EC: interrupt blocked
+Apr 11 07:43:52 hum-Lenovo-B50-70 kernel: [ 4134.891660] ACPI: Preparing to enter system sleep state S3
+Apr 11 07:43:52 hum-Lenovo-B50-70 kernel: [ 4134.892570] ACPI: EC: event blocked
+Apr 11 07:43:52 hum-Lenovo-B50-70 kernel: [ 4134.892571] ACPI: EC: EC stopped
+Apr 11 07:43:52 hum-Lenovo-B50-70 kernel: [ 4134.959299] ACPI: Low-level resume complete
+Apr 11 07:43:52 hum-Lenovo-B50-70 kernel: [ 4134.959396] ACPI: EC: EC started
+Apr 11 07:43:52 hum-Lenovo-B50-70 kernel: [ 4134.974795] ACPI: Waking up from system sleep state S3
+Apr 11 07:43:52 hum-Lenovo-B50-70 kernel: [ 4134.976183] ACPI: EC: interrupt unblocked
+Apr 11 07:43:52 hum-Lenovo-B50-70 kernel: [ 4135.106913] ACPI: EC: event unblocked
+Apr 11 10:05:48 hum-Lenovo-B50-70 kernel: [10328.112582] ACPI: EC: interrupt blocked
+Apr 11 10:05:48 hum-Lenovo-B50-70 kernel: [10328.152394] ACPI: Preparing to enter system sleep state S3
+Apr 11 10:05:48 hum-Lenovo-B50-70 kernel: [10328.153311] ACPI: EC: event blocked
+Apr 11 10:05:48 hum-Lenovo-B50-70 kernel: [10328.153312] ACPI: EC: EC stopped
+Apr 11 10:05:48 hum-Lenovo-B50-70 kernel: [10328.219902] ACPI: Low-level resume complete
+Apr 11 10:05:48 hum-Lenovo-B50-70 kernel: [10328.219997] ACPI: EC: EC started
+Apr 11 10:05:48 hum-Lenovo-B50-70 kernel: [10328.234726] ACPI: Waking up from system sleep state S3
+Apr 11 10:05:48 hum-Lenovo-B50-70 kernel: [10328.236060] ACPI: EC: interrupt unblocked
+Apr 11 10:05:48 hum-Lenovo-B50-70 kernel: [10328.367194] ACPI: EC: event unblocked
+Apr 11 10:13:52 hum-Lenovo-B50-70 kernel: [10629.330321] ACPI: EC: interrupt blocked
+Apr 11 10:13:52 hum-Lenovo-B50-70 kernel: [10629.370174] ACPI: Preparing to enter system sleep state S3
+Apr 11 10:13:52 hum-Lenovo-B50-70 kernel: [10629.371064] ACPI: EC: event blocked
+Apr 11 10:13:52 hum-Lenovo-B50-70 kernel: [10629.371065] ACPI: EC: EC stopped
+Apr 11 10:13:52 hum-Lenovo-B50-70 kernel: [10629.437743] ACPI: Low-level resume complete
+Apr 11 10:13:52 hum-Lenovo-B50-70 kernel: [10629.437836] ACPI: EC: EC started
+Apr 11 10:13:52 hum-Lenovo-B50-70 kernel: [10629.452696] ACPI: Waking up from system sleep state S3
+Apr 11 10:13:52 hum-Lenovo-B50-70 kernel: [10629.454032] ACPI: EC: interrupt unblocked
+Apr 11 10:13:52 hum-Lenovo-B50-70 kernel: [10629.585108] ACPI: EC: event unblocked
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] BIOS-e820: [mem 0x000000009cebf000-0x000000009cfbefff] ACPI NVS
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] BIOS-e820: [mem 0x000000009cfbf000-0x000000009cffefff] ACPI data
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] efi:  ESRT=0x9ca1f118  ACPI=0x9cffe000  ACPI 2.0=0x9cffe014  SMBIOS=0x9cebef98 
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Early table checksum verification disabled
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: RSDP 0x000000009CFFE014 000024 (v02 LENOVO)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: XSDT 0x000000009CFFE210 0000BC (v01 LENOVO CB-01    00000001      01000013)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: FACP 0x000000009CFF8000 00010C (v05 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: DSDT 0x000000009CFE7000 00DAB0 (v02 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: FACS 0x000000009CFBA000 000040
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: UEFI 0x000000009CFFD000 000236 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: FPDT 0x000000009CFFB000 000044 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: MSDM 0x000000009CFFA000 000055 (v03 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: ASF! 0x000000009CFF9000 0000A5 (v32 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: HPET 0x000000009CFF7000 000038 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: APIC 0x000000009CFF6000 00008C (v03 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: MCFG 0x000000009CFF5000 00003C (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: WDAT 0x000000009CFE6000 000224 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFE5000 000700 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: BOOT 0x000000009CFE3000 000028 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: LPIT 0x000000009CFE2000 000094 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: ASPT 0x000000009CFE0000 000034 (v07 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: DBGP 0x000000009CFDF000 000034 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFDA000 000539 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFD9000 000AD8 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFD5000 003537 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFD1000 0020C1 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: BGRT 0x000000009CFD4000 000038 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x1808
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: IRQ0 used by override.
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: IRQ9 used by override.
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: HPET id: 0x8086a201 base: 0xfed00000
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Core revision 20170831
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: 6 ACPI AML tables successfully acquired and loaded
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.053029] PM: Registering ACPI NVS region [mem 0x9cebf000-0x9cfbefff] (1048576 bytes)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.053029] ACPI FADT declares the system doesn't support PCIe ASPM, so disable it
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.053029] ACPI: bus type PCI registered
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.053029] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.056247] ACPI: Added _OSI(Module Device)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.056247] ACPI: Added _OSI(Processor Device)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.056247] ACPI: Added _OSI(3.0 _SCP Extensions)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.056247] ACPI: Added _OSI(Processor Aggregator Device)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.056247] ACPI: Added _OSI(Linux-Dell-Video)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.056247] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.056247] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.056426] ACPI: Executed 1 blocks of module-level executable AML code
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.070024] ACPI: [Firmware Bug]: BIOS _OSI(Linux) query ignored
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.071598] ACPI: Dynamic OEM Table Load:
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.071609] ACPI: SSDT 0xFFFF97C755690400 0003D3 (v01 PmRef  Cpu0Cst  00003001 INTL 20120518)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.072537] ACPI: Dynamic OEM Table Load:
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.072547] ACPI: SSDT 0xFFFF97C7555EA800 0005AA (v01 PmRef  ApIst    00003000 INTL 20120518)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.073536] ACPI: Dynamic OEM Table Load:
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.073544] ACPI: SSDT 0xFFFF97C7555F0000 000119 (v01 PmRef  ApCst    00003000 INTL 20120518)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.075624] ACPI: EC: EC started
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.075625] ACPI: EC: interrupt blocked
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.076520] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as first EC
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.076523] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x27, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.076525] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.076526] ACPI: Interpreter enabled
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.076579] ACPI: (supports S0 S3 S4 S5)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.076581] ACPI: Using IOAPIC for interrupt routing
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.076630] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.077323] ACPI: Enabled 8 GPEs in block 00 to 7F
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.154008] ACPI: Power Resource [PC05] (on)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.162985] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-fe])
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.281082] ACPI: PCI Interrupt Link [LNKA] (IRQs 3 4 5 6 10 11 12 14 15) *7
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.281183] ACPI: PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 10 *11 12 14 15)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.281282] ACPI: PCI Interrupt Link [LNKC] (IRQs 3 4 5 6 10 *11 12 14 15)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.281379] ACPI: PCI Interrupt Link [LNKD] (IRQs 3 4 5 6 *10 11 12 14 15)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.281476] ACPI: PCI Interrupt Link [LNKE] (IRQs 3 4 5 6 10 11 12 14 15) *0, disabled.
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.281573] ACPI: PCI Interrupt Link [LNKF] (IRQs 3 4 5 6 10 11 12 14 15) *0, disabled.
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.281671] ACPI: PCI Interrupt Link [LNKG] (IRQs 3 4 5 6 *10 11 12 14 15)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.281767] ACPI: PCI Interrupt Link [LNKH] (IRQs 3 4 5 6 10 11 12 14 15) *7
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.282135] ACPI: EC: interrupt unblocked
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.282143] ACPI: EC: event unblocked
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.282151] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x27, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.282153] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions and events
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.282459] ACPI: bus type USB registered
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.307860] PCI: Using ACPI for IRQ routing
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.330140] pnp: PnP ACPI init
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.330429] system 00:00: Plug and Play ACPI device, IDs PNP0c02 (active)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.330511] pnp 00:01: Plug and Play ACPI device, IDs PNP0b00 (active)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.330600] system 00:02: Plug and Play ACPI device, IDs INT3f0d PNP0c02 (active)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.330639] pnp 00:03: Plug and Play ACPI device, IDs PNP0303 (active)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.330779] pnp 00:04: Plug and Play ACPI device, IDs ETD0626 ETD0001 PNP0f13 (active)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.392318] system 00:05: Plug and Play ACPI device, IDs PNP0c02 (active)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.392856] system 00:06: Plug and Play ACPI device, IDs PNP0c02 (active)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.393679] pnp: PnP ACPI: found 7 devices
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    1.559553] ACPI: AC Adapter [ACAD] (off-line)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    1.559647] ACPI: Power Button [PWRB]
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    1.559698] ACPI: Lid Switch [LID0]
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    1.559780] ACPI: Power Button [PWRF]
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    1.560635] ACPI: Thermal Zone [TZ00] (46 C)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    1.680199] ACPI: Battery Slot [BAT1] (battery present)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    2.562406] [Firmware Bug]: ACPI(PEGP) defines _DOD but not _DOS
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    2.563542] ACPI: Video Device [PEGP] (multi-head: yes  rom: no  post: no)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    2.563551] ACPI Error: [\_SB_.PCI0.GFX0.DD02._BCL] Namespace lookup failure, AE_NOT_FOUND (20170831/psargs-364)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    2.563565] ACPI Error: Method parse/execution failed \_SB.PCI0.RP05.PEGP.DD02._BCL, AE_NOT_FOUND (20170831/psparse-550)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    2.565548] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] BIOS-e820: [mem 0x000000009cebf000-0x000000009cfbefff] ACPI NVS
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] BIOS-e820: [mem 0x000000009cfbf000-0x000000009cffefff] ACPI data
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] efi:  ESRT=0x9ca1f118  ACPI=0x9cffe000  ACPI 2.0=0x9cffe014  SMBIOS=0x9cebef98 
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Early table checksum verification disabled
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: RSDP 0x000000009CFFE014 000024 (v02 LENOVO)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: XSDT 0x000000009CFFE210 0000BC (v01 LENOVO CB-01    00000001      01000013)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: FACP 0x000000009CFF8000 00010C (v05 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: DSDT 0x000000009CFE7000 00DAB0 (v02 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: FACS 0x000000009CFBA000 000040
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: UEFI 0x000000009CFFD000 000236 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: FPDT 0x000000009CFFB000 000044 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: MSDM 0x000000009CFFA000 000055 (v03 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: ASF! 0x000000009CFF9000 0000A5 (v32 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: HPET 0x000000009CFF7000 000038 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: APIC 0x000000009CFF6000 00008C (v03 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: MCFG 0x000000009CFF5000 00003C (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: WDAT 0x000000009CFE6000 000224 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFE5000 000700 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: BOOT 0x000000009CFE3000 000028 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: LPIT 0x000000009CFE2000 000094 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: ASPT 0x000000009CFE0000 000034 (v07 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: DBGP 0x000000009CFDF000 000034 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFDA000 000539 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFD9000 000AD8 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFD5000 003537 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFD1000 0020C1 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: BGRT 0x000000009CFD4000 000038 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x1808
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: IRQ0 used by override.
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: IRQ9 used by override.
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: HPET id: 0x8086a201 base: 0xfed00000
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Core revision 20170831
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: 6 ACPI AML tables successfully acquired and loaded
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.057019] PM: Registering ACPI NVS region [mem 0x9cebf000-0x9cfbefff] (1048576 bytes)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.057019] ACPI FADT declares the system doesn't support PCIe ASPM, so disable it
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.057019] ACPI: bus type PCI registered
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.057019] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.060289] ACPI: Added _OSI(Module Device)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.060289] ACPI: Added _OSI(Processor Device)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.060289] ACPI: Added _OSI(3.0 _SCP Extensions)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.060289] ACPI: Added _OSI(Processor Aggregator Device)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.060289] ACPI: Added _OSI(Linux-Dell-Video)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.060289] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.060289] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.060419] ACPI: Executed 1 blocks of module-level executable AML code
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.074003] ACPI: [Firmware Bug]: BIOS _OSI(Linux) query ignored
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.075594] ACPI: Dynamic OEM Table Load:
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.075605] ACPI: SSDT 0xFFFF8FFBD562D400 0003D3 (v01 PmRef  Cpu0Cst  00003001 INTL 20120518)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.076538] ACPI: Dynamic OEM Table Load:
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.076548] ACPI: SSDT 0xFFFF8FFBD55ED000 0005AA (v01 PmRef  ApIst    00003000 INTL 20120518)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.077545] ACPI: Dynamic OEM Table Load:
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.077552] ACPI: SSDT 0xFFFF8FFBD5687C00 000119 (v01 PmRef  ApCst    00003000 INTL 20120518)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.079650] ACPI: EC: EC started
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.079651] ACPI: EC: interrupt blocked
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.080555] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as first EC
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.080558] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x27, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.080560] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.080561] ACPI: Interpreter enabled
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.080616] ACPI: (supports S0 S3 S4 S5)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.080617] ACPI: Using IOAPIC for interrupt routing
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.080665] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.081357] ACPI: Enabled 8 GPEs in block 00 to 7F
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.157998] ACPI: Power Resource [PC05] (on)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.166988] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-fe])
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.285082] ACPI: PCI Interrupt Link [LNKA] (IRQs 3 4 5 6 10 11 12 14 15) *7
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.285184] ACPI: PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 10 *11 12 14 15)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.285282] ACPI: PCI Interrupt Link [LNKC] (IRQs 3 4 5 6 10 *11 12 14 15)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.285379] ACPI: PCI Interrupt Link [LNKD] (IRQs 3 4 5 6 *10 11 12 14 15)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.285476] ACPI: PCI Interrupt Link [LNKE] (IRQs 3 4 5 6 10 11 12 14 15) *0, disabled.
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.285573] ACPI: PCI Interrupt Link [LNKF] (IRQs 3 4 5 6 10 11 12 14 15) *0, disabled.
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.285670] ACPI: PCI Interrupt Link [LNKG] (IRQs 3 4 5 6 *10 11 12 14 15)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.285766] ACPI: PCI Interrupt Link [LNKH] (IRQs 3 4 5 6 10 11 12 14 15) *7
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.286137] ACPI: EC: interrupt unblocked
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.286145] ACPI: EC: event unblocked
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.286153] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x27, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.286155] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions and events
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.286463] ACPI: bus type USB registered
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.312087] PCI: Using ACPI for IRQ routing
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.334213] pnp: PnP ACPI init
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.334506] system 00:00: Plug and Play ACPI device, IDs PNP0c02 (active)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.334585] pnp 00:01: Plug and Play ACPI device, IDs PNP0b00 (active)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.334679] system 00:02: Plug and Play ACPI device, IDs INT3f0d PNP0c02 (active)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.334715] pnp 00:03: Plug and Play ACPI device, IDs PNP0303 (active)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.334867] pnp 00:04: Plug and Play ACPI device, IDs ETD0626 ETD0001 PNP0f13 (active)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.396322] system 00:05: Plug and Play ACPI device, IDs PNP0c02 (active)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.396860] system 00:06: Plug and Play ACPI device, IDs PNP0c02 (active)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.397679] pnp: PnP ACPI: found 7 devices
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    1.563037] ACPI: AC Adapter [ACAD] (on-line)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    1.563134] ACPI: Power Button [PWRB]
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    1.563185] ACPI: Lid Switch [LID0]
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    1.563267] ACPI: Power Button [PWRF]
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    1.564124] ACPI: Thermal Zone [TZ00] (31 C)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    1.684203] ACPI: Battery Slot [BAT1] (battery present)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    2.569245] [Firmware Bug]: ACPI(PEGP) defines _DOD but not _DOS
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    2.570456] ACPI: Video Device [PEGP] (multi-head: yes  rom: no  post: no)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    2.570466] ACPI Error: [\_SB_.PCI0.GFX0.DD02._BCL] Namespace lookup failure, AE_NOT_FOUND (20170831/psargs-364)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    2.570481] ACPI Error: Method parse/execution failed \_SB.PCI0.RP05.PEGP.DD02._BCL, AE_NOT_FOUND (20170831/psparse-550)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    2.572382] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] BIOS-e820: [mem 0x000000009cebf000-0x000000009cfbefff] ACPI NVS
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] BIOS-e820: [mem 0x000000009cfbf000-0x000000009cffefff] ACPI data
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] efi:  ESRT=0x9ca1f118  ACPI=0x9cffe000  ACPI 2.0=0x9cffe014  SMBIOS=0x9cebef98 
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Early table checksum verification disabled
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: RSDP 0x000000009CFFE014 000024 (v02 LENOVO)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: XSDT 0x000000009CFFE210 0000BC (v01 LENOVO CB-01    00000001      01000013)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: FACP 0x000000009CFF8000 00010C (v05 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: DSDT 0x000000009CFE7000 00DAB0 (v02 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: FACS 0x000000009CFBA000 000040
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: UEFI 0x000000009CFFD000 000236 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: FPDT 0x000000009CFFB000 000044 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: MSDM 0x000000009CFFA000 000055 (v03 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: ASF! 0x000000009CFF9000 0000A5 (v32 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: HPET 0x000000009CFF7000 000038 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: APIC 0x000000009CFF6000 00008C (v03 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: MCFG 0x000000009CFF5000 00003C (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: WDAT 0x000000009CFE6000 000224 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFE5000 000700 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: BOOT 0x000000009CFE3000 000028 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: LPIT 0x000000009CFE2000 000094 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: ASPT 0x000000009CFE0000 000034 (v07 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: DBGP 0x000000009CFDF000 000034 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFDA000 000539 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFD9000 000AD8 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFD5000 003537 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFD1000 0020C1 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: BGRT 0x000000009CFD4000 000038 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x1808
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: IRQ0 used by override.
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: IRQ9 used by override.
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: HPET id: 0x8086a201 base: 0xfed00000
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Core revision 20170831
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: 6 ACPI AML tables successfully acquired and loaded
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.057033] PM: Registering ACPI NVS region [mem 0x9cebf000-0x9cfbefff] (1048576 bytes)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.057033] ACPI FADT declares the system doesn't support PCIe ASPM, so disable it
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.057033] ACPI: bus type PCI registered
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.057033] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.060334] ACPI: Added _OSI(Module Device)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.060334] ACPI: Added _OSI(Processor Device)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.060334] ACPI: Added _OSI(3.0 _SCP Extensions)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.060334] ACPI: Added _OSI(Processor Aggregator Device)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.060334] ACPI: Added _OSI(Linux-Dell-Video)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.060334] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.060334] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.060418] ACPI: Executed 1 blocks of module-level executable AML code
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.074042] ACPI: [Firmware Bug]: BIOS _OSI(Linux) query ignored
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.075629] ACPI: Dynamic OEM Table Load:
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.075640] ACPI: SSDT 0xFFFF903855632000 0003D3 (v01 PmRef  Cpu0Cst  00003001 INTL 20120518)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.076575] ACPI: Dynamic OEM Table Load:
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.076585] ACPI: SSDT 0xFFFF9038555F6800 0005AA (v01 PmRef  ApIst    00003000 INTL 20120518)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.077570] ACPI: Dynamic OEM Table Load:
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.077578] ACPI: SSDT 0xFFFF90385569BC00 000119 (v01 PmRef  ApCst    00003000 INTL 20120518)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.079660] ACPI: EC: EC started
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.079661] ACPI: EC: interrupt blocked
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.080565] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as first EC
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.080568] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x27, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.080570] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.080571] ACPI: Interpreter enabled
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.080625] ACPI: (supports S0 S3 S4 S5)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.080626] ACPI: Using IOAPIC for interrupt routing
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.080673] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.081367] ACPI: Enabled 8 GPEs in block 00 to 7F
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.158046] ACPI: Power Resource [PC05] (on)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.167056] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-fe])
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.285089] ACPI: PCI Interrupt Link [LNKA] (IRQs 3 4 5 6 10 11 12 14 15) *7
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.285191] ACPI: PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 10 *11 12 14 15)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.285288] ACPI: PCI Interrupt Link [LNKC] (IRQs 3 4 5 6 10 *11 12 14 15)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.285386] ACPI: PCI Interrupt Link [LNKD] (IRQs 3 4 5 6 *10 11 12 14 15)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.285483] ACPI: PCI Interrupt Link [LNKE] (IRQs 3 4 5 6 10 11 12 14 15) *0, disabled.
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.285580] ACPI: PCI Interrupt Link [LNKF] (IRQs 3 4 5 6 10 11 12 14 15) *0, disabled.
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.285678] ACPI: PCI Interrupt Link [LNKG] (IRQs 3 4 5 6 *10 11 12 14 15)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.285774] ACPI: PCI Interrupt Link [LNKH] (IRQs 3 4 5 6 10 11 12 14 15) *7
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.286146] ACPI: EC: interrupt unblocked
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.286154] ACPI: EC: event unblocked
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.286162] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x27, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.286164] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions and events
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.286472] ACPI: bus type USB registered
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.312088] PCI: Using ACPI for IRQ routing
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.334108] pnp: PnP ACPI init
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.334397] system 00:00: Plug and Play ACPI device, IDs PNP0c02 (active)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.334472] pnp 00:01: Plug and Play ACPI device, IDs PNP0b00 (active)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.334562] system 00:02: Plug and Play ACPI device, IDs INT3f0d PNP0c02 (active)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.334597] pnp 00:03: Plug and Play ACPI device, IDs PNP0303 (active)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.334738] pnp 00:04: Plug and Play ACPI device, IDs ETD0626 ETD0001 PNP0f13 (active)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.396320] system 00:05: Plug and Play ACPI device, IDs PNP0c02 (active)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.396861] system 00:06: Plug and Play ACPI device, IDs PNP0c02 (active)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.397686] pnp: PnP ACPI: found 7 devices
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    1.563340] ACPI: AC Adapter [ACAD] (on-line)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    1.563434] ACPI: Power Button [PWRB]
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    1.563488] ACPI: Lid Switch [LID0]
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    1.563574] ACPI: Power Button [PWRF]
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    1.564437] ACPI: Thermal Zone [TZ00] (48 C)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    1.684217] ACPI: Battery Slot [BAT1] (battery present)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    2.572471] [Firmware Bug]: ACPI(PEGP) defines _DOD but not _DOS
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    2.573651] ACPI: Video Device [PEGP] (multi-head: yes  rom: no  post: no)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    2.573659] ACPI Error: [\_SB_.PCI0.GFX0.DD02._BCL] Namespace lookup failure, AE_NOT_FOUND (20170831/psargs-364)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    2.573673] ACPI Error: Method parse/execution failed \_SB.PCI0.RP05.PEGP.DD02._BCL, AE_NOT_FOUND (20170831/psparse-550)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    2.575471] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] BIOS-e820: [mem 0x000000009cebf000-0x000000009cfbefff] ACPI NVS
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] BIOS-e820: [mem 0x000000009cfbf000-0x000000009cffefff] ACPI data
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] efi:  ESRT=0x9ca1f118  ACPI=0x9cffe000  ACPI 2.0=0x9cffe014  SMBIOS=0x9cebef98 
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Early table checksum verification disabled
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: RSDP 0x000000009CFFE014 000024 (v02 LENOVO)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: XSDT 0x000000009CFFE210 0000BC (v01 LENOVO CB-01    00000001      01000013)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: FACP 0x000000009CFF8000 00010C (v05 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: DSDT 0x000000009CFE7000 00DAB0 (v02 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: FACS 0x000000009CFBA000 000040
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: UEFI 0x000000009CFFD000 000236 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: FPDT 0x000000009CFFB000 000044 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: MSDM 0x000000009CFFA000 000055 (v03 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: ASF! 0x000000009CFF9000 0000A5 (v32 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: HPET 0x000000009CFF7000 000038 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: APIC 0x000000009CFF6000 00008C (v03 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: MCFG 0x000000009CFF5000 00003C (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: WDAT 0x000000009CFE6000 000224 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFE5000 000700 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: BOOT 0x000000009CFE3000 000028 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: LPIT 0x000000009CFE2000 000094 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: ASPT 0x000000009CFE0000 000034 (v07 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: DBGP 0x000000009CFDF000 000034 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFDA000 000539 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFD9000 000AD8 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFD5000 003537 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFD1000 0020C1 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: BGRT 0x000000009CFD4000 000038 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x1808
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: IRQ0 used by override.
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: IRQ9 used by override.
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: HPET id: 0x8086a201 base: 0xfed00000
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Core revision 20170831
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: 6 ACPI AML tables successfully acquired and loaded
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.057032] PM: Registering ACPI NVS region [mem 0x9cebf000-0x9cfbefff] (1048576 bytes)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.057032] ACPI FADT declares the system doesn't support PCIe ASPM, so disable it
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.057032] ACPI: bus type PCI registered
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.057032] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.060332] ACPI: Added _OSI(Module Device)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.060332] ACPI: Added _OSI(Processor Device)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.060332] ACPI: Added _OSI(3.0 _SCP Extensions)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.060332] ACPI: Added _OSI(Processor Aggregator Device)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.060332] ACPI: Added _OSI(Linux-Dell-Video)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.060332] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.060332] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.060415] ACPI: Executed 1 blocks of module-level executable AML code
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.074036] ACPI: [Firmware Bug]: BIOS _OSI(Linux) query ignored
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.075624] ACPI: Dynamic OEM Table Load:
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.075635] ACPI: SSDT 0xFFFF9FAE95636400 0003D3 (v01 PmRef  Cpu0Cst  00003001 INTL 20120518)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.076559] ACPI: Dynamic OEM Table Load:
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.076569] ACPI: SSDT 0xFFFF9FAE955F0800 0005AA (v01 PmRef  ApIst    00003000 INTL 20120518)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.077555] ACPI: Dynamic OEM Table Load:
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.077562] ACPI: SSDT 0xFFFF9FAE95699400 000119 (v01 PmRef  ApCst    00003000 INTL 20120518)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.079649] ACPI: EC: EC started
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.079650] ACPI: EC: interrupt blocked
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.080550] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as first EC
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.080553] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x27, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.080555] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.080556] ACPI: Interpreter enabled
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.080611] ACPI: (supports S0 S3 S4 S5)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.080612] ACPI: Using IOAPIC for interrupt routing
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.080659] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.081349] ACPI: Enabled 8 GPEs in block 00 to 7F
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.157809] ACPI: Power Resource [PC05] (on)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.166684] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-fe])
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.285083] ACPI: PCI Interrupt Link [LNKA] (IRQs 3 4 5 6 10 11 12 14 15) *7
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.285183] ACPI: PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 10 *11 12 14 15)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.285280] ACPI: PCI Interrupt Link [LNKC] (IRQs 3 4 5 6 10 *11 12 14 15)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.285376] ACPI: PCI Interrupt Link [LNKD] (IRQs 3 4 5 6 *10 11 12 14 15)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.285472] ACPI: PCI Interrupt Link [LNKE] (IRQs 3 4 5 6 10 11 12 14 15) *0, disabled.
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.285568] ACPI: PCI Interrupt Link [LNKF] (IRQs 3 4 5 6 10 11 12 14 15) *0, disabled.
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.285664] ACPI: PCI Interrupt Link [LNKG] (IRQs 3 4 5 6 *10 11 12 14 15)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.285760] ACPI: PCI Interrupt Link [LNKH] (IRQs 3 4 5 6 10 11 12 14 15) *7
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.286129] ACPI: EC: interrupt unblocked
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.286138] ACPI: EC: event unblocked
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.286145] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x27, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.286148] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions and events
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.286455] ACPI: bus type USB registered
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.312087] PCI: Using ACPI for IRQ routing
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.334149] pnp: PnP ACPI init
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.334435] system 00:00: Plug and Play ACPI device, IDs PNP0c02 (active)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.334507] pnp 00:01: Plug and Play ACPI device, IDs PNP0b00 (active)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.334592] system 00:02: Plug and Play ACPI device, IDs INT3f0d PNP0c02 (active)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.334626] pnp 00:03: Plug and Play ACPI device, IDs PNP0303 (active)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.334764] pnp 00:04: Plug and Play ACPI device, IDs ETD0626 ETD0001 PNP0f13 (active)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.396318] system 00:05: Plug and Play ACPI device, IDs PNP0c02 (active)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.396851] system 00:06: Plug and Play ACPI device, IDs PNP0c02 (active)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.397741] pnp: PnP ACPI: found 7 devices
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    1.563559] ACPI: AC Adapter [ACAD] (on-line)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    1.563654] ACPI: Power Button [PWRB]
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    1.563709] ACPI: Lid Switch [LID0]
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    1.563793] ACPI: Power Button [PWRF]
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    1.564644] ACPI: Thermal Zone [TZ00] (39 C)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    1.684211] ACPI: Battery Slot [BAT1] (battery present)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    2.571706] [Firmware Bug]: ACPI(PEGP) defines _DOD but not _DOS
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    2.572866] ACPI: Video Device [PEGP] (multi-head: yes  rom: no  post: no)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    2.572874] ACPI Error: [\_SB_.PCI0.GFX0.DD02._BCL] Namespace lookup failure, AE_NOT_FOUND (20170831/psargs-364)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    2.572887] ACPI Error: Method parse/execution failed \_SB.PCI0.RP05.PEGP.DD02._BCL, AE_NOT_FOUND (20170831/psparse-550)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    2.574911] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Mar 17 22:29:39 hum-Lenovo-B50-70 systemd[1]: Stopping ACPI event daemon...
+Mar 18 20:22:17 hum-Lenovo-B50-70 systemd[1]: Started ACPI Events Check.
+Mar 18 20:22:17 hum-Lenovo-B50-70 systemd[1]: Listening on ACPID Listen Socket.
+Mar 18 20:22:17 hum-Lenovo-B50-70 systemd[1]: Started ACPI event daemon.
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] BIOS-e820: [mem 0x000000009cebf000-0x000000009cfbefff] ACPI NVS
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] BIOS-e820: [mem 0x000000009cfbf000-0x000000009cffefff] ACPI data
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] efi:  ESRT=0x9ca1f118  ACPI=0x9cffe000  ACPI 2.0=0x9cffe014  SMBIOS=0x9cebef98 
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Early table checksum verification disabled
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: RSDP 0x000000009CFFE014 000024 (v02 LENOVO)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: XSDT 0x000000009CFFE210 0000BC (v01 LENOVO CB-01    00000001      01000013)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: FACP 0x000000009CFF8000 00010C (v05 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: DSDT 0x000000009CFE7000 00DAB0 (v02 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: FACS 0x000000009CFBA000 000040
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: UEFI 0x000000009CFFD000 000236 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: FPDT 0x000000009CFFB000 000044 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: MSDM 0x000000009CFFA000 000055 (v03 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: ASF! 0x000000009CFF9000 0000A5 (v32 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: HPET 0x000000009CFF7000 000038 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: APIC 0x000000009CFF6000 00008C (v03 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: MCFG 0x000000009CFF5000 00003C (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: WDAT 0x000000009CFE6000 000224 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFE5000 000700 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: BOOT 0x000000009CFE3000 000028 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: LPIT 0x000000009CFE2000 000094 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: ASPT 0x000000009CFE0000 000034 (v07 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: DBGP 0x000000009CFDF000 000034 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFDA000 000539 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFD9000 000AD8 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFD5000 003537 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFD1000 0020C1 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: BGRT 0x000000009CFD4000 000038 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x1808
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: IRQ0 used by override.
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: IRQ9 used by override.
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: HPET id: 0x8086a201 base: 0xfed00000
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Core revision 20170831
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: 6 ACPI AML tables successfully acquired and loaded
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.053029] PM: Registering ACPI NVS region [mem 0x9cebf000-0x9cfbefff] (1048576 bytes)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.053029] ACPI FADT declares the system doesn't support PCIe ASPM, so disable it
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.053029] ACPI: bus type PCI registered
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.053029] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.056247] ACPI: Added _OSI(Module Device)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.056247] ACPI: Added _OSI(Processor Device)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.056247] ACPI: Added _OSI(3.0 _SCP Extensions)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.056247] ACPI: Added _OSI(Processor Aggregator Device)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.056247] ACPI: Added _OSI(Linux-Dell-Video)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.056247] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.056247] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.056426] ACPI: Executed 1 blocks of module-level executable AML code
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.070024] ACPI: [Firmware Bug]: BIOS _OSI(Linux) query ignored
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.071598] ACPI: Dynamic OEM Table Load:
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.071609] ACPI: SSDT 0xFFFF97C755690400 0003D3 (v01 PmRef  Cpu0Cst  00003001 INTL 20120518)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.072537] ACPI: Dynamic OEM Table Load:
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.072547] ACPI: SSDT 0xFFFF97C7555EA800 0005AA (v01 PmRef  ApIst    00003000 INTL 20120518)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.073536] ACPI: Dynamic OEM Table Load:
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.073544] ACPI: SSDT 0xFFFF97C7555F0000 000119 (v01 PmRef  ApCst    00003000 INTL 20120518)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.075624] ACPI: EC: EC started
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.075625] ACPI: EC: interrupt blocked
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.076520] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as first EC
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.076523] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x27, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.076525] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.076526] ACPI: Interpreter enabled
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.076579] ACPI: (supports S0 S3 S4 S5)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.076581] ACPI: Using IOAPIC for interrupt routing
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.076630] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.077323] ACPI: Enabled 8 GPEs in block 00 to 7F
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.154008] ACPI: Power Resource [PC05] (on)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.162985] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-fe])
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.281082] ACPI: PCI Interrupt Link [LNKA] (IRQs 3 4 5 6 10 11 12 14 15) *7
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.281183] ACPI: PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 10 *11 12 14 15)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.281282] ACPI: PCI Interrupt Link [LNKC] (IRQs 3 4 5 6 10 *11 12 14 15)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.281379] ACPI: PCI Interrupt Link [LNKD] (IRQs 3 4 5 6 *10 11 12 14 15)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.281476] ACPI: PCI Interrupt Link [LNKE] (IRQs 3 4 5 6 10 11 12 14 15) *0, disabled.
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.281573] ACPI: PCI Interrupt Link [LNKF] (IRQs 3 4 5 6 10 11 12 14 15) *0, disabled.
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.281671] ACPI: PCI Interrupt Link [LNKG] (IRQs 3 4 5 6 *10 11 12 14 15)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.281767] ACPI: PCI Interrupt Link [LNKH] (IRQs 3 4 5 6 10 11 12 14 15) *7
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.282135] ACPI: EC: interrupt unblocked
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.282143] ACPI: EC: event unblocked
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.282151] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x27, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.282153] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions and events
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.282459] ACPI: bus type USB registered
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.307860] PCI: Using ACPI for IRQ routing
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.330140] pnp: PnP ACPI init
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.330429] system 00:00: Plug and Play ACPI device, IDs PNP0c02 (active)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.330511] pnp 00:01: Plug and Play ACPI device, IDs PNP0b00 (active)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.330600] system 00:02: Plug and Play ACPI device, IDs INT3f0d PNP0c02 (active)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.330639] pnp 00:03: Plug and Play ACPI device, IDs PNP0303 (active)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.330779] pnp 00:04: Plug and Play ACPI device, IDs ETD0626 ETD0001 PNP0f13 (active)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.392318] system 00:05: Plug and Play ACPI device, IDs PNP0c02 (active)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.392856] system 00:06: Plug and Play ACPI device, IDs PNP0c02 (active)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    0.393679] pnp: PnP ACPI: found 7 devices
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    1.559553] ACPI: AC Adapter [ACAD] (off-line)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    1.559647] ACPI: Power Button [PWRB]
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    1.559698] ACPI: Lid Switch [LID0]
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    1.559780] ACPI: Power Button [PWRF]
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    1.560635] ACPI: Thermal Zone [TZ00] (46 C)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    1.680199] ACPI: Battery Slot [BAT1] (battery present)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    2.562406] [Firmware Bug]: ACPI(PEGP) defines _DOD but not _DOS
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    2.563542] ACPI: Video Device [PEGP] (multi-head: yes  rom: no  post: no)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    2.563551] ACPI Error: [\_SB_.PCI0.GFX0.DD02._BCL] Namespace lookup failure, AE_NOT_FOUND (20170831/psargs-364)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    2.563565] ACPI Error: Method parse/execution failed \_SB.PCI0.RP05.PEGP.DD02._BCL, AE_NOT_FOUND (20170831/psparse-550)
+Mar 18 20:22:17 hum-Lenovo-B50-70 kernel: [    2.565548] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Mar 18 17:47:25 hum-Lenovo-B50-70 systemd[1]: Stopping ACPI event daemon...
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] BIOS-e820: [mem 0x000000009cebf000-0x000000009cfbefff] ACPI NVS
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] BIOS-e820: [mem 0x000000009cfbf000-0x000000009cffefff] ACPI data
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] efi:  ESRT=0x9ca1f118  ACPI=0x9cffe000  ACPI 2.0=0x9cffe014  SMBIOS=0x9cebef98 
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Early table checksum verification disabled
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: RSDP 0x000000009CFFE014 000024 (v02 LENOVO)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: XSDT 0x000000009CFFE210 0000BC (v01 LENOVO CB-01    00000001      01000013)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: FACP 0x000000009CFF8000 00010C (v05 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: DSDT 0x000000009CFE7000 00DAB0 (v02 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: FACS 0x000000009CFBA000 000040
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: UEFI 0x000000009CFFD000 000236 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: FPDT 0x000000009CFFB000 000044 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: MSDM 0x000000009CFFA000 000055 (v03 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: ASF! 0x000000009CFF9000 0000A5 (v32 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: HPET 0x000000009CFF7000 000038 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: APIC 0x000000009CFF6000 00008C (v03 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: MCFG 0x000000009CFF5000 00003C (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: WDAT 0x000000009CFE6000 000224 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFE5000 000700 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: BOOT 0x000000009CFE3000 000028 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: LPIT 0x000000009CFE2000 000094 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: ASPT 0x000000009CFE0000 000034 (v07 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: DBGP 0x000000009CFDF000 000034 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFDA000 000539 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFD9000 000AD8 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFD5000 003537 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFD1000 0020C1 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: BGRT 0x000000009CFD4000 000038 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x1808
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: IRQ0 used by override.
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: IRQ9 used by override.
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: HPET id: 0x8086a201 base: 0xfed00000
+Mar 18 22:43:38 hum-Lenovo-B50-70 systemd[1]: Started ACPI Events Check.
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Core revision 20170831
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: 6 ACPI AML tables successfully acquired and loaded
+Mar 18 22:43:38 hum-Lenovo-B50-70 systemd[1]: Listening on ACPID Listen Socket.
+Mar 18 22:43:38 hum-Lenovo-B50-70 systemd[1]: Started ACPI event daemon.
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.057019] PM: Registering ACPI NVS region [mem 0x9cebf000-0x9cfbefff] (1048576 bytes)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.057019] ACPI FADT declares the system doesn't support PCIe ASPM, so disable it
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.057019] ACPI: bus type PCI registered
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.057019] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.060289] ACPI: Added _OSI(Module Device)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.060289] ACPI: Added _OSI(Processor Device)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.060289] ACPI: Added _OSI(3.0 _SCP Extensions)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.060289] ACPI: Added _OSI(Processor Aggregator Device)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.060289] ACPI: Added _OSI(Linux-Dell-Video)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.060289] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.060289] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.060419] ACPI: Executed 1 blocks of module-level executable AML code
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.074003] ACPI: [Firmware Bug]: BIOS _OSI(Linux) query ignored
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.075594] ACPI: Dynamic OEM Table Load:
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.075605] ACPI: SSDT 0xFFFF8FFBD562D400 0003D3 (v01 PmRef  Cpu0Cst  00003001 INTL 20120518)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.076538] ACPI: Dynamic OEM Table Load:
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.076548] ACPI: SSDT 0xFFFF8FFBD55ED000 0005AA (v01 PmRef  ApIst    00003000 INTL 20120518)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.077545] ACPI: Dynamic OEM Table Load:
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.077552] ACPI: SSDT 0xFFFF8FFBD5687C00 000119 (v01 PmRef  ApCst    00003000 INTL 20120518)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.079650] ACPI: EC: EC started
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.079651] ACPI: EC: interrupt blocked
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.080555] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as first EC
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.080558] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x27, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.080560] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.080561] ACPI: Interpreter enabled
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.080616] ACPI: (supports S0 S3 S4 S5)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.080617] ACPI: Using IOAPIC for interrupt routing
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.080665] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.081357] ACPI: Enabled 8 GPEs in block 00 to 7F
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.157998] ACPI: Power Resource [PC05] (on)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.166988] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-fe])
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.285082] ACPI: PCI Interrupt Link [LNKA] (IRQs 3 4 5 6 10 11 12 14 15) *7
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.285184] ACPI: PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 10 *11 12 14 15)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.285282] ACPI: PCI Interrupt Link [LNKC] (IRQs 3 4 5 6 10 *11 12 14 15)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.285379] ACPI: PCI Interrupt Link [LNKD] (IRQs 3 4 5 6 *10 11 12 14 15)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.285476] ACPI: PCI Interrupt Link [LNKE] (IRQs 3 4 5 6 10 11 12 14 15) *0, disabled.
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.285573] ACPI: PCI Interrupt Link [LNKF] (IRQs 3 4 5 6 10 11 12 14 15) *0, disabled.
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.285670] ACPI: PCI Interrupt Link [LNKG] (IRQs 3 4 5 6 *10 11 12 14 15)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.285766] ACPI: PCI Interrupt Link [LNKH] (IRQs 3 4 5 6 10 11 12 14 15) *7
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.286137] ACPI: EC: interrupt unblocked
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.286145] ACPI: EC: event unblocked
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.286153] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x27, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.286155] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions and events
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.286463] ACPI: bus type USB registered
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.312087] PCI: Using ACPI for IRQ routing
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.334213] pnp: PnP ACPI init
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.334506] system 00:00: Plug and Play ACPI device, IDs PNP0c02 (active)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.334585] pnp 00:01: Plug and Play ACPI device, IDs PNP0b00 (active)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.334679] system 00:02: Plug and Play ACPI device, IDs INT3f0d PNP0c02 (active)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.334715] pnp 00:03: Plug and Play ACPI device, IDs PNP0303 (active)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.334867] pnp 00:04: Plug and Play ACPI device, IDs ETD0626 ETD0001 PNP0f13 (active)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.396322] system 00:05: Plug and Play ACPI device, IDs PNP0c02 (active)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.396860] system 00:06: Plug and Play ACPI device, IDs PNP0c02 (active)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    0.397679] pnp: PnP ACPI: found 7 devices
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    1.563037] ACPI: AC Adapter [ACAD] (on-line)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    1.563134] ACPI: Power Button [PWRB]
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    1.563185] ACPI: Lid Switch [LID0]
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    1.563267] ACPI: Power Button [PWRF]
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    1.564124] ACPI: Thermal Zone [TZ00] (31 C)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    1.684203] ACPI: Battery Slot [BAT1] (battery present)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    2.569245] [Firmware Bug]: ACPI(PEGP) defines _DOD but not _DOS
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    2.570456] ACPI: Video Device [PEGP] (multi-head: yes  rom: no  post: no)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    2.570466] ACPI Error: [\_SB_.PCI0.GFX0.DD02._BCL] Namespace lookup failure, AE_NOT_FOUND (20170831/psargs-364)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    2.570481] ACPI Error: Method parse/execution failed \_SB.PCI0.RP05.PEGP.DD02._BCL, AE_NOT_FOUND (20170831/psparse-550)
+Mar 18 22:43:38 hum-Lenovo-B50-70 kernel: [    2.572382] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Mar 18 22:58:12 hum-Lenovo-B50-70 systemd[1]: Stopping ACPI event daemon...
+Mar 18 22:58:45 hum-Lenovo-B50-70 systemd[1]: Started ACPI Events Check.
+Mar 18 22:58:45 hum-Lenovo-B50-70 systemd[1]: Listening on ACPID Listen Socket.
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] BIOS-e820: [mem 0x000000009cebf000-0x000000009cfbefff] ACPI NVS
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] BIOS-e820: [mem 0x000000009cfbf000-0x000000009cffefff] ACPI data
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] efi:  ESRT=0x9ca1f118  ACPI=0x9cffe000  ACPI 2.0=0x9cffe014  SMBIOS=0x9cebef98 
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Early table checksum verification disabled
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: RSDP 0x000000009CFFE014 000024 (v02 LENOVO)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: XSDT 0x000000009CFFE210 0000BC (v01 LENOVO CB-01    00000001      01000013)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: FACP 0x000000009CFF8000 00010C (v05 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: DSDT 0x000000009CFE7000 00DAB0 (v02 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: FACS 0x000000009CFBA000 000040
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: UEFI 0x000000009CFFD000 000236 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: FPDT 0x000000009CFFB000 000044 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: MSDM 0x000000009CFFA000 000055 (v03 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: ASF! 0x000000009CFF9000 0000A5 (v32 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: HPET 0x000000009CFF7000 000038 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: APIC 0x000000009CFF6000 00008C (v03 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: MCFG 0x000000009CFF5000 00003C (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: WDAT 0x000000009CFE6000 000224 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFE5000 000700 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: BOOT 0x000000009CFE3000 000028 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: LPIT 0x000000009CFE2000 000094 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: ASPT 0x000000009CFE0000 000034 (v07 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: DBGP 0x000000009CFDF000 000034 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFDA000 000539 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFD9000 000AD8 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFD5000 003537 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFD1000 0020C1 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: BGRT 0x000000009CFD4000 000038 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x1808
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: IRQ0 used by override.
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: IRQ9 used by override.
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: HPET id: 0x8086a201 base: 0xfed00000
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Core revision 20170831
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: 6 ACPI AML tables successfully acquired and loaded
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.057033] PM: Registering ACPI NVS region [mem 0x9cebf000-0x9cfbefff] (1048576 bytes)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.057033] ACPI FADT declares the system doesn't support PCIe ASPM, so disable it
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.057033] ACPI: bus type PCI registered
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.057033] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.060334] ACPI: Added _OSI(Module Device)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.060334] ACPI: Added _OSI(Processor Device)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.060334] ACPI: Added _OSI(3.0 _SCP Extensions)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.060334] ACPI: Added _OSI(Processor Aggregator Device)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.060334] ACPI: Added _OSI(Linux-Dell-Video)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.060334] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.060334] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.060418] ACPI: Executed 1 blocks of module-level executable AML code
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.074042] ACPI: [Firmware Bug]: BIOS _OSI(Linux) query ignored
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.075629] ACPI: Dynamic OEM Table Load:
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.075640] ACPI: SSDT 0xFFFF903855632000 0003D3 (v01 PmRef  Cpu0Cst  00003001 INTL 20120518)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.076575] ACPI: Dynamic OEM Table Load:
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.076585] ACPI: SSDT 0xFFFF9038555F6800 0005AA (v01 PmRef  ApIst    00003000 INTL 20120518)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.077570] ACPI: Dynamic OEM Table Load:
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.077578] ACPI: SSDT 0xFFFF90385569BC00 000119 (v01 PmRef  ApCst    00003000 INTL 20120518)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.079660] ACPI: EC: EC started
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.079661] ACPI: EC: interrupt blocked
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.080565] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as first EC
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.080568] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x27, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.080570] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.080571] ACPI: Interpreter enabled
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.080625] ACPI: (supports S0 S3 S4 S5)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.080626] ACPI: Using IOAPIC for interrupt routing
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.080673] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.081367] ACPI: Enabled 8 GPEs in block 00 to 7F
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.158046] ACPI: Power Resource [PC05] (on)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.167056] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-fe])
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.285089] ACPI: PCI Interrupt Link [LNKA] (IRQs 3 4 5 6 10 11 12 14 15) *7
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.285191] ACPI: PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 10 *11 12 14 15)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.285288] ACPI: PCI Interrupt Link [LNKC] (IRQs 3 4 5 6 10 *11 12 14 15)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.285386] ACPI: PCI Interrupt Link [LNKD] (IRQs 3 4 5 6 *10 11 12 14 15)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.285483] ACPI: PCI Interrupt Link [LNKE] (IRQs 3 4 5 6 10 11 12 14 15) *0, disabled.
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.285580] ACPI: PCI Interrupt Link [LNKF] (IRQs 3 4 5 6 10 11 12 14 15) *0, disabled.
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.285678] ACPI: PCI Interrupt Link [LNKG] (IRQs 3 4 5 6 *10 11 12 14 15)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.285774] ACPI: PCI Interrupt Link [LNKH] (IRQs 3 4 5 6 10 11 12 14 15) *7
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.286146] ACPI: EC: interrupt unblocked
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.286154] ACPI: EC: event unblocked
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.286162] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x27, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.286164] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions and events
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.286472] ACPI: bus type USB registered
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.312088] PCI: Using ACPI for IRQ routing
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.334108] pnp: PnP ACPI init
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.334397] system 00:00: Plug and Play ACPI device, IDs PNP0c02 (active)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.334472] pnp 00:01: Plug and Play ACPI device, IDs PNP0b00 (active)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.334562] system 00:02: Plug and Play ACPI device, IDs INT3f0d PNP0c02 (active)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.334597] pnp 00:03: Plug and Play ACPI device, IDs PNP0303 (active)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.334738] pnp 00:04: Plug and Play ACPI device, IDs ETD0626 ETD0001 PNP0f13 (active)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.396320] system 00:05: Plug and Play ACPI device, IDs PNP0c02 (active)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.396861] system 00:06: Plug and Play ACPI device, IDs PNP0c02 (active)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    0.397686] pnp: PnP ACPI: found 7 devices
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    1.563340] ACPI: AC Adapter [ACAD] (on-line)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    1.563434] ACPI: Power Button [PWRB]
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    1.563488] ACPI: Lid Switch [LID0]
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    1.563574] ACPI: Power Button [PWRF]
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    1.564437] ACPI: Thermal Zone [TZ00] (48 C)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    1.684217] ACPI: Battery Slot [BAT1] (battery present)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    2.572471] [Firmware Bug]: ACPI(PEGP) defines _DOD but not _DOS
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    2.573651] ACPI: Video Device [PEGP] (multi-head: yes  rom: no  post: no)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    2.573659] ACPI Error: [\_SB_.PCI0.GFX0.DD02._BCL] Namespace lookup failure, AE_NOT_FOUND (20170831/psargs-364)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    2.573673] ACPI Error: Method parse/execution failed \_SB.PCI0.RP05.PEGP.DD02._BCL, AE_NOT_FOUND (20170831/psparse-550)
+Mar 18 22:58:45 hum-Lenovo-B50-70 kernel: [    2.575471] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Mar 18 22:58:46 hum-Lenovo-B50-70 systemd[1]: Started ACPI event daemon.
+Mar 18 22:59:01 hum-Lenovo-B50-70 systemd[1]: Stopping ACPI event daemon...
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] BIOS-e820: [mem 0x000000009cebf000-0x000000009cfbefff] ACPI NVS
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] BIOS-e820: [mem 0x000000009cfbf000-0x000000009cffefff] ACPI data
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] efi:  ESRT=0x9ca1f118  ACPI=0x9cffe000  ACPI 2.0=0x9cffe014  SMBIOS=0x9cebef98 
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Early table checksum verification disabled
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: RSDP 0x000000009CFFE014 000024 (v02 LENOVO)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: XSDT 0x000000009CFFE210 0000BC (v01 LENOVO CB-01    00000001      01000013)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: FACP 0x000000009CFF8000 00010C (v05 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: DSDT 0x000000009CFE7000 00DAB0 (v02 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: FACS 0x000000009CFBA000 000040
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: UEFI 0x000000009CFFD000 000236 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: FPDT 0x000000009CFFB000 000044 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: MSDM 0x000000009CFFA000 000055 (v03 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: ASF! 0x000000009CFF9000 0000A5 (v32 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: HPET 0x000000009CFF7000 000038 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: APIC 0x000000009CFF6000 00008C (v03 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: MCFG 0x000000009CFF5000 00003C (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: WDAT 0x000000009CFE6000 000224 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFE5000 000700 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: BOOT 0x000000009CFE3000 000028 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: LPIT 0x000000009CFE2000 000094 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: ASPT 0x000000009CFE0000 000034 (v07 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: DBGP 0x000000009CFDF000 000034 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFDA000 000539 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFD9000 000AD8 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFD5000 003537 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: SSDT 0x000000009CFD1000 0020C1 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: BGRT 0x000000009CFD4000 000038 (v01 LENOVO CB-01    00000001 ACPI 00040000)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x1808
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: IRQ0 used by override.
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: IRQ9 used by override.
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: HPET id: 0x8086a201 base: 0xfed00000
+Apr 10 21:45:15 hum-Lenovo-B50-70 systemd[1]: Started ACPI Events Check.
+Apr 10 21:45:15 hum-Lenovo-B50-70 systemd[1]: Listening on ACPID Listen Socket.
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: Core revision 20170831
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.000000] ACPI: 6 ACPI AML tables successfully acquired and loaded
+Apr 10 21:45:15 hum-Lenovo-B50-70 systemd[1]: Started ACPI event daemon.
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.057032] PM: Registering ACPI NVS region [mem 0x9cebf000-0x9cfbefff] (1048576 bytes)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.057032] ACPI FADT declares the system doesn't support PCIe ASPM, so disable it
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.057032] ACPI: bus type PCI registered
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.057032] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.060332] ACPI: Added _OSI(Module Device)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.060332] ACPI: Added _OSI(Processor Device)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.060332] ACPI: Added _OSI(3.0 _SCP Extensions)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.060332] ACPI: Added _OSI(Processor Aggregator Device)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.060332] ACPI: Added _OSI(Linux-Dell-Video)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.060332] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.060332] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.060415] ACPI: Executed 1 blocks of module-level executable AML code
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.074036] ACPI: [Firmware Bug]: BIOS _OSI(Linux) query ignored
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.075624] ACPI: Dynamic OEM Table Load:
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.075635] ACPI: SSDT 0xFFFF9FAE95636400 0003D3 (v01 PmRef  Cpu0Cst  00003001 INTL 20120518)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.076559] ACPI: Dynamic OEM Table Load:
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.076569] ACPI: SSDT 0xFFFF9FAE955F0800 0005AA (v01 PmRef  ApIst    00003000 INTL 20120518)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.077555] ACPI: Dynamic OEM Table Load:
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.077562] ACPI: SSDT 0xFFFF9FAE95699400 000119 (v01 PmRef  ApCst    00003000 INTL 20120518)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.079649] ACPI: EC: EC started
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.079650] ACPI: EC: interrupt blocked
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.080550] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as first EC
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.080553] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x27, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.080555] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.080556] ACPI: Interpreter enabled
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.080611] ACPI: (supports S0 S3 S4 S5)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.080612] ACPI: Using IOAPIC for interrupt routing
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.080659] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.081349] ACPI: Enabled 8 GPEs in block 00 to 7F
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.157809] ACPI: Power Resource [PC05] (on)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.166684] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-fe])
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.285083] ACPI: PCI Interrupt Link [LNKA] (IRQs 3 4 5 6 10 11 12 14 15) *7
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.285183] ACPI: PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 10 *11 12 14 15)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.285280] ACPI: PCI Interrupt Link [LNKC] (IRQs 3 4 5 6 10 *11 12 14 15)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.285376] ACPI: PCI Interrupt Link [LNKD] (IRQs 3 4 5 6 *10 11 12 14 15)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.285472] ACPI: PCI Interrupt Link [LNKE] (IRQs 3 4 5 6 10 11 12 14 15) *0, disabled.
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.285568] ACPI: PCI Interrupt Link [LNKF] (IRQs 3 4 5 6 10 11 12 14 15) *0, disabled.
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.285664] ACPI: PCI Interrupt Link [LNKG] (IRQs 3 4 5 6 *10 11 12 14 15)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.285760] ACPI: PCI Interrupt Link [LNKH] (IRQs 3 4 5 6 10 11 12 14 15) *7
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.286129] ACPI: EC: interrupt unblocked
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.286138] ACPI: EC: event unblocked
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.286145] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x27, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.286148] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions and events
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.286455] ACPI: bus type USB registered
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.312087] PCI: Using ACPI for IRQ routing
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.334149] pnp: PnP ACPI init
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.334435] system 00:00: Plug and Play ACPI device, IDs PNP0c02 (active)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.334507] pnp 00:01: Plug and Play ACPI device, IDs PNP0b00 (active)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.334592] system 00:02: Plug and Play ACPI device, IDs INT3f0d PNP0c02 (active)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.334626] pnp 00:03: Plug and Play ACPI device, IDs PNP0303 (active)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.334764] pnp 00:04: Plug and Play ACPI device, IDs ETD0626 ETD0001 PNP0f13 (active)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.396318] system 00:05: Plug and Play ACPI device, IDs PNP0c02 (active)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.396851] system 00:06: Plug and Play ACPI device, IDs PNP0c02 (active)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    0.397741] pnp: PnP ACPI: found 7 devices
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    1.563559] ACPI: AC Adapter [ACAD] (on-line)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    1.563654] ACPI: Power Button [PWRB]
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    1.563709] ACPI: Lid Switch [LID0]
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    1.563793] ACPI: Power Button [PWRF]
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    1.564644] ACPI: Thermal Zone [TZ00] (39 C)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    1.684211] ACPI: Battery Slot [BAT1] (battery present)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    2.571706] [Firmware Bug]: ACPI(PEGP) defines _DOD but not _DOS
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    2.572866] ACPI: Video Device [PEGP] (multi-head: yes  rom: no  post: no)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    2.572874] ACPI Error: [\_SB_.PCI0.GFX0.DD02._BCL] Namespace lookup failure, AE_NOT_FOUND (20170831/psargs-364)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    2.572887] ACPI Error: Method parse/execution failed \_SB.PCI0.RP05.PEGP.DD02._BCL, AE_NOT_FOUND (20170831/psparse-550)
+Apr 10 21:45:15 hum-Lenovo-B50-70 kernel: [    2.574911] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Apr 11 07:43:52 hum-Lenovo-B50-70 kernel: [ 4134.851758] ACPI: EC: interrupt blocked
+Apr 11 07:43:52 hum-Lenovo-B50-70 kernel: [ 4134.891660] ACPI: Preparing to enter system sleep state S3
+Apr 11 07:43:52 hum-Lenovo-B50-70 kernel: [ 4134.892570] ACPI: EC: event blocked
+Apr 11 07:43:52 hum-Lenovo-B50-70 kernel: [ 4134.892571] ACPI: EC: EC stopped
+Apr 11 07:43:52 hum-Lenovo-B50-70 kernel: [ 4134.959299] ACPI: Low-level resume complete
+Apr 11 07:43:52 hum-Lenovo-B50-70 kernel: [ 4134.959396] ACPI: EC: EC started
+Apr 11 07:43:52 hum-Lenovo-B50-70 kernel: [ 4134.974795] ACPI: Waking up from system sleep state S3
+Apr 11 07:43:52 hum-Lenovo-B50-70 kernel: [ 4134.976183] ACPI: EC: interrupt unblocked
+Apr 11 07:43:52 hum-Lenovo-B50-70 kernel: [ 4135.106913] ACPI: EC: event unblocked
+Apr 11 10:05:48 hum-Lenovo-B50-70 kernel: [10328.112582] ACPI: EC: interrupt blocked
+Apr 11 10:05:48 hum-Lenovo-B50-70 kernel: [10328.152394] ACPI: Preparing to enter system sleep state S3
+Apr 11 10:05:48 hum-Lenovo-B50-70 kernel: [10328.153311] ACPI: EC: event blocked
+Apr 11 10:05:48 hum-Lenovo-B50-70 kernel: [10328.153312] ACPI: EC: EC stopped
+Apr 11 10:05:48 hum-Lenovo-B50-70 kernel: [10328.219902] ACPI: Low-level resume complete
+Apr 11 10:05:48 hum-Lenovo-B50-70 kernel: [10328.219997] ACPI: EC: EC started
+Apr 11 10:05:48 hum-Lenovo-B50-70 kernel: [10328.234726] ACPI: Waking up from system sleep state S3
+Apr 11 10:05:48 hum-Lenovo-B50-70 kernel: [10328.236060] ACPI: EC: interrupt unblocked
+Apr 11 10:05:48 hum-Lenovo-B50-70 kernel: [10328.367194] ACPI: EC: event unblocked
+Apr 11 10:13:52 hum-Lenovo-B50-70 kernel: [10629.330321] ACPI: EC: interrupt blocked
+Apr 11 10:13:52 hum-Lenovo-B50-70 kernel: [10629.370174] ACPI: Preparing to enter system sleep state S3
+Apr 11 10:13:52 hum-Lenovo-B50-70 kernel: [10629.371064] ACPI: EC: event blocked
+Apr 11 10:13:52 hum-Lenovo-B50-70 kernel: [10629.371065] ACPI: EC: EC stopped
+Apr 11 10:13:52 hum-Lenovo-B50-70 kernel: [10629.437743] ACPI: Low-level resume complete
+Apr 11 10:13:52 hum-Lenovo-B50-70 kernel: [10629.437836] ACPI: EC: EC started
+Apr 11 10:13:52 hum-Lenovo-B50-70 kernel: [10629.452696] ACPI: Waking up from system sleep state S3
+Apr 11 10:13:52 hum-Lenovo-B50-70 kernel: [10629.454032] ACPI: EC: interrupt unblocked
+Apr 11 10:13:52 hum-Lenovo-B50-70 kernel: [10629.585108] ACPI: EC: event unblocked
